@@ -1,0 +1,8 @@
+onnx==1.16.1
+onnxruntime==1.17.0
+optimum
+pillow
+numpy
+opencv-python
+torch
+transformers
